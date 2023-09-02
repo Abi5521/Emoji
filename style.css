@@ -1,0 +1,86 @@
+.face{
+    position: relative;
+    height: 260px;
+    width: 250px;
+    background: goldenrod;
+    border-radius: 47%;
+    margin-top: 90px;
+    margin-left: 550px;
+}
+.eyes{
+    position: absolute;
+    margin-top: 50px;
+}
+.eye1{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    background: wheat;
+    border-radius: 50%;
+    margin-left: 40px;
+    /* padding-top: 3px;
+    padding-bottom: 2px; */
+}
+.eye2{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    background: wheat;
+    border-radius: 50%;
+    margin-left: 110px;
+    /* margin-bottom: 40%; */
+    /* padding-top: 3px;
+    padding-bottom: 2px; */
+}
+.mouth{
+    height: 55px;
+    width: 130px;
+    position: absolute;
+    background: wheat;
+    /* border: solid orange; */
+    border-radius: 0% 0% 80px 80px;
+    margin-top: 130px;
+    margin-left: 60px;
+}
+.mouth1{
+    height: 58px;
+    width: 128px;
+    position: absolute;
+    background: #420d09;
+    border-radius: 0% 0% 80px 80px;
+    margin-top: 12px;
+    margin-left: 1px;
+}
+.tongue{
+    height: 94px;
+    width: 97px;
+    position: absolute;
+    background: #a30000;
+    border-radius: 18px 18px 60px 60px;
+    margin-top: 25px;
+    margin-left: 16px;
+}
+.eye11{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background: #3d2b1f;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 16px;
+}
+.eye22{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background: #3d2b1f;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+/* .tooth{
+    position: absolute;
+    height: 30px;
+    width: 2px;
+    border-left: 5px solid black;
+} */
